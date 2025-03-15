@@ -1,0 +1,49 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "name": "The Godfather",
+      "description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+      "image": "https://image.tmdb.org/t/p/w500/eEslKSwcqmiNS6va24Pbxf2UKmJ.jpg",
+      "year": 1972,
+      "genre": ["Crime", "Drama"],
+      "country": "USA"
+    },
+    {
+      "id": 2,
+      "name": "Parasite",
+      "description": "Greed and class discrimination threaten the newly formed symbiotic relationship between the wealthy Park family and the destitute Kim clan.",
+      "image": "https://miro.medium.com/v2/resize:fit:1400/1*68X3wlJ6vVS6DlwI1IfDHQ.jpeg",
+      "year": 2019,
+      "genre": ["Drama", "Thriller"],
+      "country": "South Korea"
+    },
+    {
+      "id": 3,
+      "name": "The Dark Knight",
+      "description": "When the menace known as the Joker emerges from his mysterious past, he wreaks havoc and chaos on the people of Gotham.",
+      "image": "https://image.tmdb.org/t/p/w500/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+      "year": 2008,
+      "genre": ["Action", "Crime", "Drama"],
+      "country": "USA"
+    },
+    {
+      "id": 4,
+      "name": "Forrest Gump",
+      "description": "The presidencies of Kennedy and Johnson, the Vietnam War, the Watergate scandal and other historical events unfold from the perspective of an Alabama man with an IQ of 75.",
+      "image": "https://image.tmdb.org/t/p/w500/saHP97rTPS5eLmrLQEcANmKrsFl.jpg",
+      "year": 1994,
+      "genre": ["Drama", "Romance"],
+      "country": "USA"
+    },
+    {
+      "id": 5,
+      "name": "The Shawshank Redemption",
+      "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+      "image": "https://image.tmdb.org/t/p/w500/q6y0Go1tsGEsmtFryDOJo3dEmqu.jpg",
+      "year": 1994,
+      "genre": ["Drama"],
+      "country": "USA"
+    }
+  ]
+}
